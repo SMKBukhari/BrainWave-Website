@@ -2,7 +2,6 @@
     <img height="100" src="./bismillah.png">
 </p>
 
-
 <div align="center">
   <br />
     <a href="https://smkbukhari.github.io/BrainWave-Website/" target="_blank">
